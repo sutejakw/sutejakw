@@ -24,6 +24,28 @@
 
 ---
 
+## 🔧 Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/TablePlus-FF6C37?style=for-the-badge&logoColor=white" alt="TablePlus">
+</p>
+
+---
+
+## 💻 Devices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MacBook_Pro_M2-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro M2">
+</p>
+<p align="center">
+  <i>MacBook Pro M2 14"</i>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <picture>
